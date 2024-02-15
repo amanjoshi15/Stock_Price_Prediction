@@ -11,4 +11,4 @@ A Machine Learning model to check if the prices of the stock increase or decreas
 | Count Vectorization + Lemmatization  | 84.39%         | 84.39%              | 60.58%        |
 | TF/IDF Vectorization + Lemmatization | 50.79%         | 52.91%              | 73.02%        |
 ## Dataset:-
-The dataset used is the Stock News Dataset by Kaggle. You can directly download it from [here]https://github.com/fb4e60de-397d-4abe-ade0-b491901923b7.
+The dataset used is the Stock News Dataset by Kaggle. You can directly download it from [here](https://github.com/fb4e60de-397d-4abe-ade0-b491901923b7).
